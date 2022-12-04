@@ -1,3 +1,3 @@
 # zfs-ha
 # 
-[Please see the Wiki for more information](wiki)
+[Please see the Wiki for more information](wiki.md)
